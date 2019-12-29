@@ -7,7 +7,7 @@ banner =("""
 \033[1;33m               WELLCOME TO SKYZONE
 \033[1;31m            Tolong Gunakan Script ini
 \033[1;31m                 sebijak mungkin
-ㅤㅤㅤㅤㅤㅤ\033[1;31m ╚════════•ೋೋ•════════╝
+ㅤㅤㅤㅤㅤㅤ\033[1;31m  ╚════════•ೋೋ•════════╝
 ㅤㅤㅤㅤㅤㅤㅤ\033[3;36mᵇʸ: sᴋʏʟᴀʀᴋ\033[0;37m
 """)
 os.system('clear')
