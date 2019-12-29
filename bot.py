@@ -144,14 +144,13 @@ token = (
 mode0 = ('report','join','like','leave')
 os.system('clear')
 print(banner)
-print('\033[1;31m[0] \033[1;32mreport')
 print('\033[1;31m[1] \033[1;32mjoin')
 print('\033[1;31m[2] \033[1;32mlike')
 print('\033[1;31m[3] \033[1;32mout')
 mode = mode0[int(input("\033[1;35mpilih mode bot: \033[1;34m"))]
 os.system('clear')
 print(banner)
-bot = token[int(input("\033[1;35mtotal bot 112, masukkan jumlah bot: \033[1;34m"))]
+bot = token[int(input("\033[1;35mtotal bot 109, masukkan jumlah bot: \033[1;34m"))]
 i=0
 for tokens in token:
     i+=1
