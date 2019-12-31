@@ -140,6 +140,13 @@ token = (
 '75721ea472cb941953ff853914c4a0db5a937c2a',
 '08efa2ee29a96972627253dc2986ab440745c608',
 '12a979c48972415d0f122ec820b8187e67688b99',
+'0057504cf1cf33ea19d96e4692088b0c3f08ec4d',
+'e60b70bbe36258ec70e2ae8c259c1aa0d226d28a',
+'8f88d5136bb4ee007384e769d1911cf66f61d94f',
+'0a2c96320271c17ab3c0428b31736031f318293e',
+'4315524e4001afbafcb11d4011bf318718abc6dc',
+'b4783ede2cce4840bec5285aff18c06fe728902a',
+'1e61676955716ed566f83e84e1df137ec93d421a'
 )
 mode0 = ('report','join','like','leave')
 os.system('clear')
@@ -150,7 +157,7 @@ print('\033[1;31m[3] \033[1;32mout')
 mode = mode0[int(input("\033[1;35mpilih mode bot: \033[1;34m"))]
 os.system('clear')
 print(banner)
-bot = token[int(input("\033[1;35mtotal bot 109, masukkan jumlah bot: \033[1;34m"))]
+bot = token[int(input("\033[1;35mtotal bot 116, masukkan jumlah bot: \033[1;34m"))]
 i=0
 for tokens in token:
     i+=1
