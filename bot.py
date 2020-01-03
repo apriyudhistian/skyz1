@@ -149,6 +149,25 @@ token = (
 '1e61676955716ed566f83e84e1df137ec93d421a', 
 '91e9a780310b6fe838bba6da8dcdffa2c4005af7',
 '2613fba10ebac809aa397bd5f67567cc2bea1e28',
+'fe4219960d2855663601c59b87198cef475d76cb',
+'423b92a2c6102ed92acdac2b854dd1f1010d2457',
+'7ab19aee7fcea47fea313f27cd9c4c847e39d1cb',
+'09fd0fae27160e34eb475cfe97daa82adbf2e73a',
+'2d7a424abac44053c48297ec467dfe5d10c76e7c',
+'4972f0785012b536fc0ef520e410444af1026fad',
+'d4a5e28158e446108ef3e25480ea433bfde1bf66',
+'8d42611afae2c86ccb7ed30520320dcb3d8f3c79',
+'2587244fa0f2a258a620c32d736f0b9cfa974881',
+'f872407eeb6b56b0fab9581e1216521e43e3dabc',
+'9f051fbb26cea8c7d7b3b840e58a49aee27a5ab6',
+'c1783b498c3dedfe5a2a504edd84dc3ba9c76166',
+'79d4b1236d38433a8e3fefaf3830eb50a84616de',
+'7fe2779a34271366f692d214d312ff6989622eca',
+'755e1d111e147ba62ee174c41209b2ea5e190fa2',
+'c5ec4b36f216611f87e404f687a55d22bbc74077',
+'e77724bcd24a3550a77ad9b1abf6e39b7d71818a',
+'0c63c44a13e909912a35c3072881916b3985d595',
+'0a718d11411a0b8efcc2b27df6632f457cf58ec4',
 )
 mode0 = ('report','join','like','leave')
 os.system('clear')
@@ -159,7 +178,7 @@ print('\033[1;31m[3] \033[1;32mout')
 mode = mode0[int(input("\033[1;35mpilih mode bot: \033[1;34m"))]
 os.system('clear')
 print(banner)
-bot = token[int(input("\033[1;35mtotal bot 118, masukkan jumlah bot: \033[1;34m"))]
+bot = token[int(input("\033[1;35mtotal bot 127, masukkan jumlah bot: \033[1;34m"))]
 i=0
 for tokens in token:
     i+=1
