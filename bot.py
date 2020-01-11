@@ -30,6 +30,15 @@ time.sleep(.5)
 print("\033[1;33mloading . . . . .")
 time.sleep(2)
 token = (
+3a8b083f48a533d653eace1094d01639f25fdafb',
+'12e3ec9c0789d41afe6aab59eb166d79bd60371e',
+'b37ea4e14e819a699494f28b2a3ca986c6d24a81',
+'0bfa137351b28022389c4444f3f708397c296c42',
+'4a30ad6f53e001d187f28de2eee759d2178f192a',
+'44ed4caa06fd61034d4658ceac42d8912c16025f',
+'d949b5edf798555287aa77952552c23a65a5381c',
+'fa28ee60cce0a4a40fe3a42aa17c66d739b0707f',
+'cc41b640e6ac201372d1e5b194b986a1582152fd',
 'bfc497beafb62e5daa6f46e3fbbeec9b9a1932b1', 
 '23008ab0165eca0e22ac3edf2ef99f6c4c1673fe', 
 '234ff63cdc5db19a4d8c7ebc4fc1814918c2fe94', 
@@ -156,7 +165,7 @@ print('\033[1;31m[3] \033[1;32mout')
 mode = mode0[int(input("\033[1;35mpilih mode bot: \033[1;34m"))]
 os.system('clear')
 print(banner)
-bot = token[int(input("\033[1;35mtotal bot 127, masukkan jumlah bot: \033[1;34m"))]
+bot = token[int(input("\033[1;35mtotal bot 136, masukkan jumlah bot: \033[1;34m"))]
 i=0
 for tokens in token:
     i+=1
