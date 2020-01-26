@@ -165,7 +165,7 @@ print('\033[1;31m[3] \033[1;32mout')
 mode = mode0[int(input("\033[1;35mpilih mode bot: \033[1;34m"))]
 os.system('clear')
 print(banner)
-bot = token[int(input("\033[1;35mtotal bot 136, masukkan jumlah bot: \033[1;34m"))]
+bot = token[int(input("\033[1;35mtotal bot 122, masukkan jumlah bot: \033[1;34m"))]
 i=0
 for tokens in token:
     i+=1
